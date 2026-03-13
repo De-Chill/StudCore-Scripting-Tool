@@ -1,0 +1,15 @@
+What we can do with the StudCore Scripting Tool?
+
+1. Create scripts that affects parts or models on the world like: 
+move, react, chage color, animate, change properties etc.
+
+2. Access the object the script is runing on and who created it (whos the owner)
+
+3. Use some of the basic programing tools like:
+math, functions, strings, cframes, vectors, colors, properties and safe features.
+
+4. Print messages for debugging or warning using -print- or -warn-
+
+5. Created time o repeated behaivors without frezzing the server or using infinite loops
+
+6. Basically alot of everything on luau. 
